@@ -1,0 +1,6 @@
+env3/
+env3
+*.pyc
+
+__pycache__
+__pycache__/
